@@ -7,17 +7,20 @@ Name of our project - Office Hour App
 
 Proposal of our project -
 
--    To create an Office Hour App where student can schedule an office hour with their respective Professor.
+-    To create an StudentProfessor App which is an office hour app where student can schedule an office hour with their respective Professor.
+
 
 o    Must have Features
     - Student’s Page
         •    User shall be able to search for available time slot
         •    User shall be able to reserve a time slot
+        
    
    - Professor Page
         •    Professor shall be able to post their available time slots.
         •    Professor shall be able to restrict hours from being scheduled
         •    Professor shall be able to create an access code
+        
         
 o    Nice to have Features
     - Professor Page
