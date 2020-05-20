@@ -3,7 +3,7 @@
 
 Team Members - Sonika Maharjan and Sanil Rijal
 
-Name of our project - Office Hour App
+Name of our project - StudentProfessor App (Office Hour App)
 
 Proposal of our project -
 
